@@ -1,0 +1,94 @@
+{
+    "adadelta": {
+        "cat_hinge": {
+            "train_loss": [],
+            "train_accuracy": [],
+            "val_loss": [],
+            "val_accuracy": [],
+            "history": []
+        },
+        "cat_cross_entropy": {
+            "train_loss": [],
+            "train_accuracy": [],
+            "val_loss": [],
+            "val_accuracy": [],
+            "history": []
+        },
+        "kld": {
+            "train_loss": [],
+            "train_accuracy": [],
+            "val_loss": [],
+            "val_accuracy": [],
+            "history": []
+        }
+    },
+    "adagrad": {
+        "cat_hinge": {
+            "train_loss": [],
+            "train_accuracy": [],
+            "val_loss": [],
+            "val_accuracy": [],
+            "history": []
+        },
+        "cat_cross_entropy": {
+            "train_loss": [],
+            "train_accuracy": [],
+            "val_loss": [],
+            "val_accuracy": [],
+            "history": []
+        },
+        "kld": {
+            "train_loss": [],
+            "train_accuracy": [],
+            "val_loss": [],
+            "val_accuracy": [],
+            "history": []
+        }
+    },
+    "adamax": {
+        "cat_hinge": {
+            "train_loss": [],
+            "train_accuracy": [],
+            "val_loss": [],
+            "val_accuracy": [],
+            "history": []
+        },
+        "cat_cross_entropy": {
+            "train_loss": [],
+            "train_accuracy": [],
+            "val_loss": [],
+            "val_accuracy": [],
+            "history": []
+        },
+        "kld": {
+            "train_loss": [],
+            "train_accuracy": [],
+            "val_loss": [],
+            "val_accuracy": [],
+            "history": []
+        }
+    },
+    "sgd": {
+        "cat_hinge": {
+            "train_loss": [],
+            "train_accuracy": [],
+            "val_loss": [],
+            "val_accuracy": [],
+            "history": []
+        },
+        "cat_cross_entropy": {
+            "train_loss": [],
+            "train_accuracy": [],
+            "val_loss": [],
+            "val_accuracy": [],
+            "history": []
+        },
+        "kld": {
+            "train_loss": [],
+            "train_accuracy": [],
+            "val_loss": [],
+            "val_accuracy": [],
+            "history": []
+        }
+    }
+}
